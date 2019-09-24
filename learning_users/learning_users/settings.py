@@ -28,7 +28,7 @@ SECRET_KEY = '-t=prd9l6k22&24@gku-mcehb^5h*0c#os#etxp!f$_=++cb96'
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-ALLOWED_HOSTS = []
+ALLOWED_HOSTS = ['rllamas5.pythonanywhere.com']
 
 
 # Application definition
